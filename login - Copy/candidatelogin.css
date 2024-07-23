@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-size: 100%;
+    background-image: url('good-books-library_23-2147767231.jpg');
+}
+.contain{
+    
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    color:rgb(188, 197, 200);
+  background-color: white;
+    margin-left: 36%;
+    margin-top: 9%;
+}
+img{
+    position: relative;
+    bottom: 10%;
+    background-color: none;
+}
+.contain h1{
+    border-top: 2px solid rgb(200, 195, 188);
+    font-size: 30px;
+  -webkit-background-clip : text;
+    color:transparent;
+     background-image: linear-gradient(135deg,#00feba,#5b548a);
+    }
+    
+
+.inp1{
+    border:none;
+
+    border-bottom: 2px solid rgb(200, 195, 188);
+    
+    width: 280px;
+    font-size: 15px;
+    
+    margin-top: 40px;
+    outline: none;
+    color:black;
+}
+
+.inp2 input{
+    border:none;
+    border-bottom: 2px solid rgb(200, 195, 188);
+    width: 280px;
+    font-size: 15px;
+    margin-top: 40px;
+    outline: none;
+    color:black;
+}
+
+p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+ button{
+    width: 280px;
+    height: 44px;
+    background-color: rgb(50, 133, 168);
+    color: white;
+    border: none;
+    font-size:20px ;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+p span{
+    display: flex;
+    font-size: 18px;
+
+    justify-content: space-between;
+    color:indianred;
+}
+#para{
+    color: black;
+    font-size:15px ;
+    border-top: 2px solid rgb(200, 195, 188);
+}
+
+ 

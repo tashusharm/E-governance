@@ -1,0 +1,172 @@
+   
+ *{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+ }  
+ body{
+  background-size: 100%;
+  background-image: url('stock-photo-woman-studying-with-laptop.jpeg');
+}
+
+   .container {
+    
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    color:rgb(188, 197, 200);
+  background-color: white;
+    margin-left: 36%;
+    margin-top: 9%;
+  }
+  
+  #captchaText{
+    
+    font-size: 25px;
+  }
+
+  
+  .input-container {
+    margin-bottom: 15px;
+    
+  }
+  
+  input {
+   
+    border:none;
+
+    border-bottom: 2px solid rgb(200, 195, 188);
+    
+    width: 280px;
+    font-size: 15px;
+    
+    margin-top: 40px;
+    outline: none;
+    color:black;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+     background-color: rgb(50, 133, 168);
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+  }
+ 
+  button:hover {
+    background-color: rgb(50, 133, 168);
+  }
+  img{
+    position: relative;
+    bottom: 10%;
+    background-color: none;
+}
+.container h5{
+    border-top: 2px solid rgb(200, 195, 188);
+    font-size: 20px;
+  -webkit-background-clip : text;
+    color:transparent;
+     background-image: linear-gradient(135deg,#880000,#3fada8);
+    }
+   
+   p span {
+display: flex;
+justify-content: space-between;
+    margin-top: 30px;
+    font-size: 20px;
+  border: none;
+  
+  color: #880000;
+
+ }
+ /* *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-size: 100%;
+    background-image: url('stock-photo-woman-studying-with-laptop.jpeg');
+}
+.contain{
+    
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    color:rgb(188, 197, 200);
+  background-color: white;
+    margin-left: 36%;
+    margin-top: 9%;
+}
+img{
+    position: relative;
+    bottom: 10%;
+    background-color: none;
+}
+.contain h5{
+    border-top: 2px solid rgb(200, 195, 188);
+    font-size: 20px;
+  -webkit-background-clip : text;
+    color:transparent;
+     background-image: linear-gradient(135deg,#880000,#3fada8);
+    }
+    
+
+.inp1{
+    border:none;
+
+    border-bottom: 2px solid rgb(200, 195, 188);
+    
+    width: 280px;
+    font-size: 15px;
+    
+    margin-top: 40px;
+    outline: none;
+    color:black;
+}
+
+.inp2 input{
+    border:none;
+    border-bottom: 2px solid rgb(200, 195, 188);
+    width: 280px;
+    font-size: 15px;
+    margin-top: 40px;
+    outline: none;
+    color:black;
+}
+
+p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+/* button{
+    width: 280px;
+    height: 44px;
+    background-color: rgb(50, 133, 168);
+    color: white;
+    border: none;
+    font-size:20px ;
+    margin-top: 20px;
+    cursor: pointer;
+}
+button,a {
+  width: 280px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+ span{
+    display: flex;
+    font-size: 18px;
+
+    justify-content: space-between;
+    color:indianred;
+}
+.input-container {
+  max-width: 400px;
+  margin: 0 auto;
+}*/
